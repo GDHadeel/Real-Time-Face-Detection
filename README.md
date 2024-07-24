@@ -18,8 +18,8 @@ This repository provides a simple web application for real-time face detection u
 3. Navigate to the folder you created (face_detection) and open it.
 
 ### 2. Create app.py File:
-1. Inside the face_detection folder, create a new file named [`app.pyl`](https://github.com/GDHadeel/Real-Time-Face-Detection/blob/main/app.py).
-2. Copy the following code and paste it into the [`app.pyl`](https://github.com/GDHadeel/Real-Time-Face-Detection/blob/main/app.py) file
+1. Inside the face_detection folder, create a new file named [`app.py`](https://github.com/GDHadeel/Real-Time-Face-Detection/blob/main/app.py).
+2. Copy the following code and paste it into the [`app.py`](https://github.com/GDHadeel/Real-Time-Face-Detection/blob/main/app.py) file
 
 ### 3. Install Dependencies:
 1. Open a terminal in Visual Studio Code
